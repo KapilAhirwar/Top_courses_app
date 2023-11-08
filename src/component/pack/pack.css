@@ -1,0 +1,12 @@
+.cardHold{
+    /* border: 2px solid; */
+    /* height: 100vh; */
+    /* overflow-y: scroll; */
+    margin: 0px auto;
+    width: 900px;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
